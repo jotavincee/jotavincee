@@ -34,11 +34,6 @@ ddolc;.                                          .
 ddoolc:.                                      .':l
 ddoollc;.                                    .;lll
 ooooool:.                                    .:llo
-cllooolc.           ..     .                 'cooo
-cccllllc'      ... ....    .. ..  ..         ,lodd
-:::clllc.....  ........    .. ..  ..     .   ,lddd
-:::clll;.....   ........    ....  .     ...  'lddo
-::::ccc,.....   ........    ...  ..    ....  .cdoo
 
 </pre>
 </td>
